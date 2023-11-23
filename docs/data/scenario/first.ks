@@ -7,7 +7,7 @@
 [position left="0" top="453" width="1280" height="267" frame="window0/_frame5.png"]
 [position margint="60" marginl="50" marginr="25" marginb="10"]
 [loadcss file="data/others/font/font.css"]
-[deffont size="42" face="ロゴたいぷゴシック,メイリオ,sans-serif" color="0xffffff" edge="0x000000"]
+[deffont size="40" face="ロゴたいぷゴシック,メイリオ,sans-serif" color="0xffffff" edge="0x000000"]
 [resetfont]
 [chara_new  name="ryouko" storage="chara/ryouko/ryouko1.png" ]
 [chara_new name="ryouko2" storage="chara/ryouko/ryouko2.png" ]
