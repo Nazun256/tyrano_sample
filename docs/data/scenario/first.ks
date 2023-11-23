@@ -4,7 +4,7 @@
 [hidemenubutton]
 [wait time=300]
 [freeimage layer="base"]
-[position left="0" top="453" width="1280" height="267" frame="window0/_frame5.png"]
+[position left="10" top="452" width="1260" height="266" frame="window0/_frame5.png"]
 [position margint="60" marginl="50" marginr="25" marginb="10"]
 [loadcss file="data/others/font/font.css"]
 [deffont size="40" face="ロゴたいぷゴシック,メイリオ,sans-serif" color="0xffffff" edge="0x000000"]
